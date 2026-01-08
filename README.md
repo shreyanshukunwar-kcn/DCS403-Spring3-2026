@@ -26,7 +26,7 @@ Each directory may include:
 
 - 📝 **Assignment Questions**  
   Practice problems to be solved as part of your coursework.  
-  Format: `week<number>_day<number>_questions.md`
+  Format: `week<number>_day<number>_assignments.md`
 
 - 📚 **Case Studies**  
   Real-world scenarios with questions and solutions to deepen your understanding.
@@ -36,7 +36,7 @@ Each directory may include:
 ## 📌 Assignment Instructions
 
 1. 🗂️ You will be committing the code in **your own repository** that you create.
-2. 📸 You must upload a **screenshot of the output** for each question.
+2. 📸 You must upload a **screenshot of the output** for each question in the PDF file that you submit.
 3. 🔗 Include the **link to your repository** as part of your assignment submission.
 
 ---
